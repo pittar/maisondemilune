@@ -20,7 +20,7 @@
     
     <title>Categories · Maison Demi Lune</title>
     
-    <link>https://example.com/categories/</link>
+    <link>https://www.maisondemilune.ca/categories/</link>
     <description>Recent content in Categories · Maison Demi Lune</description>
     
     <language>en-us</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.maisondemilune.ca/categories/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>

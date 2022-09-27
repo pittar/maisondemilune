@@ -20,7 +20,7 @@
     
     <title>Maison Demi Lune</title>
     
-    <link>https://example.com/</link>
+    <link>https://www.maisondemilune.ca/</link>
     <description>Recent content in Maison Demi Lune</description>
     
     <language>en-us</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.maisondemilune.ca/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>

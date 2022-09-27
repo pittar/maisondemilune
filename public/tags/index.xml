@@ -20,7 +20,7 @@
     
     <title>Tags · Maison Demi Lune</title>
     
-    <link>https://example.com/tags/</link>
+    <link>https://www.maisondemilune.ca/tags/</link>
     <description>Recent content in Tags · Maison Demi Lune</description>
     
     <language>en-us</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.maisondemilune.ca/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>
