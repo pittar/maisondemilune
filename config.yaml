@@ -5,6 +5,7 @@ baseurl: https://www.maisondemilune.ca
 copyright: © Andrew PItt
 languagecode: en-us
 enablerobotstxt: true
+relativeURLs: true
 markup:
   goldmark:
     renderer:
