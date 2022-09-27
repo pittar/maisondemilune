@@ -1,8 +1,8 @@
 author:
-  email: example@example.com
-  name: Andrew Pitt
+  email: info@maisondemilune.ca
+  name: Maison Demi Lune
 baseurl: https://www.maisondemilune.ca
-copyright: © Andrew PItt
+copyright: © Maison Demi Lune
 languagecode: en-us
 enablerobotstxt: true
 relativeURLs: true
@@ -22,40 +22,15 @@ menu:
     name: About
     weight: 20
     url: /about/
-  - identifier: blog
-    name: Blog
+  - identifier: booking
+    name: Booking
     weight: 30
-    url: /blog/
-  - identifier: articles
-    name: Articles
-    weight: 40
-    url: /articles/
-  - identifier: projects
-    name: Projects
-    weight: 50
-    url: /projects/
-  - identifier: categories
-    name: Categories
-    weight: 60
-    url: /categories/
-  - identifier: tags
-    name: Tags
-    weight: 70
-    url: /tags/
+    url: /booking/
 paginate: 50
-permalinks:
-  blog: /blog/:year/:month/:day/:title/
 social:
-  envelope: mailto:example@example.com
-  discord: http://discord.com/users/example
-  github: https://github.com/example
+  envelope: mailto:info@maisondemilune.ca
   facebook: https://facebook.com/example
   instagram: https://instagram.com/example
-  linkedin: https://www.linkedin.com/in/example
-  reddit: https://reddit.com/u/example
-  twitch: https://www.twitch.tv/example
-  twitter: https://twitter.com/example
-  youtube: https://www.youtube.com/user/example
 theme: paige
 title: Maison Demi Lune
 titlecasestyle: Go
