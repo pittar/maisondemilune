@@ -1,3 +1,3 @@
 # Maison Demi Lune Website
 
-Built using Hugo.
+Built using [Hugo](https://gohugo.io/).
